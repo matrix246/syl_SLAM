@@ -11,6 +11,8 @@ Welcome to SLAM's documentation!
    :caption: Contents:
 
 
+Indices and tables
+==================
 
 Indices and tables
 ==================
