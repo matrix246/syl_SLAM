@@ -1,3 +1,10 @@
 {
-    "esbonio.sphinx.confDir": ""
+    "esbonio.sphinx.buildDir" : "${workspaceFolder}/build/html",
+    "esbonio.sphinx.confDir"  : "${workspaceFolder}\\docs\\source",
+    "esbonio.sphinx.srcDir"   : "${workspaceFolder}/docs/source",
+
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.addMissingImports": true
+    },
 }
