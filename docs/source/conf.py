@@ -19,7 +19,12 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
 
-
+# source_suffix = '.rst'
+from recommonmark.parser import CommonMarkParser
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+source_suffix = ['.rst', '.md']
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
