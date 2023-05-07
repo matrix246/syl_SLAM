@@ -28,4 +28,4 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 # The master toctree document.
-master_doc = 'docs/index'
+master_doc = 'source/index'
