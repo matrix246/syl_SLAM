@@ -3,23 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SLAM's documentation!
-====================================
+
+================================================
+SLAM 学习手册
+================================================
+
+Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
+   
+   copyright
+   preface
+   chapters/*
+   aboutme
+   roadmap
 
-
-Indices and tables
-==================
-
-test second header
-----------------------
-
-test 333 header
-~~~~~~~~~~~~~~~~~~~~~~
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
