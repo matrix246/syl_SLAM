@@ -23,4 +23,7 @@
 1. Eigen `官网 <https://eigen.tuxfamily.org/index.php?title=Main_Page>`_
 #. C++ `官网 <https://cplusplus.com/doc/>`_
 #. Ceres `官网 <http://ceres-solver.org/>`_
-#. Ceres `官网 <>`_
+#. OpenCV `官网 <https://opencv.org/>`_
+#. Sophus `官网 <https://github.com/strasdat/Sophus>`_
+#.  `官网 <>`_
+#.  `官网 <>`_
